@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'QueenofCamelot2.0';
+  src: url('QueenofCamelot2.0.eot');
+  src: url('QueenofCamelot2.0.woff2') format('woff2'),
+       url('QueenofCamelot2.0.woff') format('woff'),
+       url('QueenofCamelot2.0.ttf') format('truetype'),
+       url('QueenofCamelot2.0.svg#QueenofCamelot2.0') format('svg'),
+       url('QueenofCamelot2.0.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
